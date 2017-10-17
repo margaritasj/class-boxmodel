@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+h1{
+    outline: 1px solid green;   
+}
+ul{
+    outline: 1px solid orange; 
+    width: 241px;
+    padding-left: 0px;
+}
+li{
+    outline: 1px solid yellow;
+    list-style: none;
+}
+
+
+.enlaces{
+    outline: 1px solid red; 
+    display: inline-block;
+    width: 100px;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    
+}
